@@ -5,7 +5,7 @@ curl({
 	paths: {
 		m: 'modules'
 	}
-}, ['router!']).then(function(routes) {
+}, ['router.min!']).then(function(routes) {
 
 	var i = 0;
 	for(; i < routes.length; i++) {
