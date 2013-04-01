@@ -1,5 +1,5 @@
 
-define(['router!m/bar'], function(params) {
+define(['router.min!m/bar'], function(params) {
 
 	console.log("Bar module loaded...");
 

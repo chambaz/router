@@ -1,5 +1,5 @@
 
-define(['router!m/foo'], function(params) {
+define(['router.min!m/foo'], function(params) {
 
 	console.log("Foo module loaded...");
 
